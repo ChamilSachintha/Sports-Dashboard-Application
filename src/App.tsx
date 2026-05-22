@@ -7,7 +7,9 @@ function App() {
     <div className="min-h-screen bg-[#0f162a]">
       <Navbar />
       <Hero />
-       <LiveMatches />
+      <div className="mx-32">
+        <LiveMatches />
+      </div>
     </div>
   );
 }
