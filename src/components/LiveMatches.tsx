@@ -106,7 +106,7 @@ export default function LiveMatches() {
             <div className="flex items-center justify-between mt-1">
               <a
                 href="#stats"
-                className="text-slate-300 hover:text-emerald-400 text-sm"
+                className="text-blue-400 hover:text-blue-600 text-sm"
               >
                 View Stats
               </a>
