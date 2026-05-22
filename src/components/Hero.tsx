@@ -53,7 +53,7 @@ export default function HeroSection() {
    
       <div className="relative z-10 text-white px-6 max-w-3xl mx-32">
 
-        <h1 className="text-3xl md:text-5xl font-extrabold leading-tight">
+        <h1 className="text-3xl md:text-5xl font-medium leading-tight">
           ICC Cricket World Cup 2025
         </h1>
 
@@ -61,7 +61,7 @@ export default function HeroSection() {
           India vs Australia - Final Showdown
         </p>
 
-        <button className="mt-6 bg-emerald-500 hover:bg-emerald-600 text-white font-bold px-6 py-3 rounded-xl transition">
+        <button className="mt-6 bg-emerald-500 hover:bg-emerald-600 text-white font-normal px-6 py-3 rounded-xl transition">
           Watch Now
         </button>
 
