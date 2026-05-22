@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import LiveMatches from "./components/LiveMatches";
+import TrendingMatches from "./components/TrendingMatches";
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       <Hero />
       <div className="mx-32">
         <LiveMatches />
+        <TrendingMatches />
       </div>
     </div>
   );
