@@ -60,7 +60,7 @@ export default function LiveMatches() {
         {matches.map((match, index) => (
           <div
             key={index}
-            className="bg-[#1b2438] border border-slate-800 rounded-xl p-5 text-white hover:scale-[1.02] transition"
+            className="bg-[#1d283b] border border-slate-800 rounded-xl p-5 text-white hover:scale-[1.02] transition"
           >
             {/* Sport Name + LIVE */}
             <div className="flex items-center justify-between mb-4">
